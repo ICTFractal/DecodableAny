@@ -1,0 +1,2 @@
+# DecodableAny
+複数の型に対応したDecodableプロトコル継承型
